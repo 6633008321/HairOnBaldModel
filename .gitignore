@@ -4,7 +4,6 @@
 *.dll
 *.pdb
 *.ilk
-*.obj
 *.log
 *.tlog
 *.recipe
