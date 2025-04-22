@@ -1,0 +1,26 @@
+# Ignore build artifacts
+/build/
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+*.tlog
+*.recipe
+*.lastbuildstate
+CMakeCache.txt
+cmake_install.cmake
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.swp
+
+# Ignore IDE files
+.vs/
+*.code-workspace
