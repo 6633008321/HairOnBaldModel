@@ -20,6 +20,10 @@ set(SOURCES
     src/ImGuiFileDialog.cpp
     src/shader.h
     src/model.h
+    src/camera.h
+    src/hair_transform.h
+    src/ui.h
+    src/input.h
     src/ImGuiFileDialog.h
     src/dirent.h
     src/ImGuiFileDialogConfig.h
