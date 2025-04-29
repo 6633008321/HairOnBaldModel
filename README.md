@@ -1,6 +1,6 @@
 # HairOnBaldModel
 
-A 3D rendering project to add hair on a bald head model using OpenGL and ImGui.
+An Interactive Tool for Placing and Saving 3D Hair Models on Bald Heads using OpenGL and ImGui.
 
 ## Build Instructions
 
